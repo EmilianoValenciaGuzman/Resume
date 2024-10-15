@@ -6,7 +6,7 @@ import aws from '../assets/aws.png';
 const features = [
     { name: 'Phone', description: '999-599-5845' },
     { name: 'email', description: 'a20216410@alumnos.uady.mx' },
-    { name: 'Location', description: 'México, Yucatán' },
+    { name: 'Location', description: 'Yucatán, México' },
     { name: 'GitHub', description: 'EmilianoValenciaGuzman' },
     { name: 'Linkedin', description: 'wwww.linkedin.com/in/emiliano-valencia' },
   ]
